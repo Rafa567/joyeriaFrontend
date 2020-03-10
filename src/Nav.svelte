@@ -70,7 +70,7 @@
       content: "Inicio";
     }
     .catalogos::after {
-      content: "Artículos";
+      content: "Catalogos";
     }
     .clientes::after {
       content: "Clientes";

@@ -1,0 +1,8 @@
+{
+    "name": "Joyeria",
+    "theme_color": "#32a43a",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+  }
